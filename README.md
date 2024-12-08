@@ -1,0 +1,2 @@
+# Modifying Variable Through Pointer in C
+This repository demonstrates a common error in C where modifying a variable through a pointer unexpectedly changes the original variable's value. The bug.c file shows the erroneous code, while bugSolution.c offers a corrected approach if needed.  The key takeaway is understanding how pointer arithmetic works and the direct relationship between pointers and the variables they address.
