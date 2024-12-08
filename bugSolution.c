@@ -1,0 +1,1 @@
+int main() { int x = 10; int y = 20; int *ptr = &x; *ptr = y; printf("%d", x); return 0;} //This works as expected,  but demonstrates a more controlled way to modify the value pointed to by ptr.
